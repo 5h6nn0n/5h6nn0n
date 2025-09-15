@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @5h6nn0n
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... project mangement
-- 💞️ I’m looking to collaborate on ... web development or data analytics 
-- 📫 How to reach me ... email or dm
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning project mangement
+- 💞️ I’m looking to collaborate on web development or data analytics 
+- 📫 How to reach me email or dm
 - ⚡ Fun fact: ...
 
 <!---
