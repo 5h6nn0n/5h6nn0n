@@ -1,5 +1,5 @@
 👋 Hi, I’m @5h6nn0n
-- 👀 I’m interested in: biometrics (future) and building valuable applications that are fun and intuitive to use (current).
+- 👀 I’m interested in: biometrics (future) and building full-stack applications (current).
 - 🌱 I’m currently learning: cloudflare, AWS, AI
 - 💞️ I’m looking to collaborate on: web development, data analytics, databases 
 - 📫 How to reach me: message me on
