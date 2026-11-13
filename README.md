@@ -48,13 +48,11 @@ I build software, databases, and machine learning models with an eye toward syst
 
 * **Education:** Dual bachelors in Computer Information Systems and Business Administration with a minor in Cyber Forensics.
 * **Participation:** US Cyber Quest (log forensics & OSINT), L'Oréal Brandstorm, and AWS Connect.
-* **Languages & Software:** JavaScript (ES6+, node), Rest API, Java, MySQL, PL/SQL, PHP, HTML5, CSS3, SVG, Python (TensorFlow, Keras, Scikit-Learn, Pandas, NumPy), Docker, Linux (Ubuntu/WSL2), Cloudflare (Workers & R2), Oracle, Git bash, Powershell, PuTTy, Zeus CLI.
+* **Languages & Software:** JavaScript (ES6+, node), Rest API, Java, MySQL, PL/SQL, PHP, HTML5, CSS3, SVG, Python (TensorFlow, Keras, Scikit-Learn, Pandas, NumPy), Docker, Linux (Ubuntu/WSL2), Cloudflare (Workers & R2), Oracle, Git bash, Powershell, Wireshark, PuTTy, Zeus CLI.
 
 ---
 
-<div align="center">
-  <sub>Full write-ups, case studies, and research papers are hosted on my <a href="https://your-username.github.io">Portfolio Archive</a>.</sub>
-</div>
+
 
 <!--
 # Hi, I'm a Software Engineer & Data Scientist 👋
