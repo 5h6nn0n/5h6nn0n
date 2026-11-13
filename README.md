@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 # Computer Systems · Cyber Forensics · Integrated Business
 
 [![GitHub](https://img.shields.io/badge/GitHub-172420?style=for-the-badge&logo=github&logoColor=D98352)](https://github.com/5h6nn0n)
-[![Portfolio](https://img.shields.io/badge/Portfolio-172420?style=for-the-badge&logo=githubpages&logoColor=D98352)](https://5h6nn0n.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-172420?style=for-the-badge&logo=githubpages&logoColor=D98352)](https://5h6nn0n.github.io/Portfolio/index.html)
 [![Docker](https://img.shields.io/badge/Docker-172420?style=for-the-badge&logo=docker&logoColor=EBE5D8)](https://hub.docker.com/u/5h6nn0n)
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-172420?style=for-the-badge&logo=linkedin&logoColor=E05A47)](https://linkedin.com/in/your-handle)
